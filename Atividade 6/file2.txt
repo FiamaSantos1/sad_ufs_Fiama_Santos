@@ -1,0 +1,176 @@
+NomeCompleto;Cidade;idPessoa;idCidade
+Joao Pedro;Sao Paulo; 1,0; 1,0
+Joao Pedro;Sao Cristovao; 1,0; 1,0
+Joao Pedro;Aracaju; 1,0; 1,0
+Joao Pedro;Rio de Janeiro; 1,0; 1,0
+Joao Pedro;Salvador; 1,0; 1,0
+Joao Pedro;Sao Paulo; 1,0; 1,0
+Joao Pedro;Sao Cristovao; 1,0; 1,0
+Joao Pedro;Aracaju; 1,0; 1,0
+Joao Pedro;Rio de Janeiro; 1,0; 1,0
+Joao Pedro;Salvador; 1,0; 1,0
+Joao Pedro;Sao Paulo; 1,0; 1,0
+Joao Pedro;Sao Cristovao; 1,0; 1,0
+Joao Pedro;Aracaju; 1,0; 1,0
+Joao Pedro;Rio de Janeiro; 1,0; 1,0
+Joao Pedro;Salvador; 1,0; 1,0
+Joao Pedro;Sao Paulo; 1,0; 1,0
+Joao Pedro;Sao Cristovao; 1,0; 1,0
+Lucas Gabriel;Aracaju; 2,0; 2,0
+Lucas Gabriel;Rio de Janeiro; 2,0; 2,0
+Lucas Gabriel;Salvador; 2,0; 2,0
+Lucas Gabriel;Sao Paulo; 2,0; 2,0
+Lucas Gabriel;Sao Cristovao; 2,0; 2,0
+Lucas Gabriel;Aracaju; 2,0; 2,0
+Lucas Gabriel;Rio de Janeiro; 2,0; 2,0
+Lucas Gabriel;Salvador; 2,0; 2,0
+Lucas Gabriel;Sao Paulo; 2,0; 2,0
+Lucas Gabriel;Sao Cristovao; 2,0; 2,0
+Lucas Gabriel;Aracaju; 2,0; 2,0
+Lucas Gabriel;Rio de Janeiro; 2,0; 2,0
+Lucas Gabriel;Salvador; 2,0; 2,0
+Lucas Gabriel;Sao Paulo; 2,0; 2,0
+Lucas Gabriel;Sao Cristovao; 2,0; 2,0
+Lucas Gabriel;Aracaju; 2,0; 2,0
+Lucas Gabriel;Rio de Janeiro; 2,0; 2,0
+Lucas Gabriel;Salvador; 2,0; 2,0
+Maria Claudia;Sao Paulo; 3,0; 4,0
+Maria Claudia;Sao Cristovao; 3,0; 4,0
+Maria Claudia;Aracaju; 3,0; 4,0
+Maria Claudia;Rio de Janeiro; 3,0; 4,0
+Maria Claudia;Salvador; 3,0; 4,0
+Maria Claudia;Sao Paulo; 3,0; 4,0
+Maria Claudia;Sao Cristovao; 3,0; 4,0
+Maria Claudia;Aracaju; 3,0; 4,0
+Maria Claudia;Rio de Janeiro; 3,0; 4,0
+Maria Claudia;Salvador; 3,0; 4,0
+Maria Claudia;Sao Paulo; 3,0; 4,0
+Maria Claudia;Sao Cristovao; 3,0; 4,0
+Maria Claudia;Aracaju; 3,0; 4,0
+Maria Claudia;Rio de Janeiro; 3,0; 4,0
+Maria Claudia;Salvador; 3,0; 4,0
+Maria Claudia;Sao Paulo; 3,0; 4,0
+Maria Claudia;Sao Cristovao; 3,0; 4,0
+Luna Santos;Aracaju; 4,0; 5,0
+Luna Santos;Rio de Janeiro; 4,0; 5,0
+Luna Santos;Salvador; 4,0; 5,0
+Luna Santos;Sao Paulo; 4,0; 5,0
+Luna Santos;Sao Cristovao; 4,0; 5,0
+Luna Santos;Aracaju; 4,0; 5,0
+Luna Santos;Rio de Janeiro; 4,0; 5,0
+Luna Santos;Salvador; 4,0; 5,0
+Luna Santos;Sao Paulo; 4,0; 5,0
+Luna Santos;Sao Cristovao; 4,0; 5,0
+Luna Santos;Aracaju; 4,0; 5,0
+Luna Santos;Rio de Janeiro; 4,0; 5,0
+Luna Santos;Salvador; 4,0; 5,0
+Luna Santos;Sao Paulo; 4,0; 5,0
+Luna Santos;Sao Cristovao; 4,0; 5,0
+Luna Santos;Aracaju; 4,0; 5,0
+Luna Santos;Rio de Janeiro; 4,0; 5,0
+Luna Santos;Salvador; 4,0; 5,0
+Paula Oliveira;Sao Paulo; 5,0; 3,0
+Paula Oliveira;Sao Cristovao; 5,0; 3,0
+Paula Oliveira;Aracaju; 5,0; 3,0
+Paula Oliveira;Rio de Janeiro; 5,0; 3,0
+Paula Oliveira;Salvador; 5,0; 3,0
+Paula Oliveira;Sao Paulo; 5,0; 3,0
+Paula Oliveira;Sao Cristovao; 5,0; 3,0
+Paula Oliveira;Aracaju; 5,0; 3,0
+Paula Oliveira;Rio de Janeiro; 5,0; 3,0
+Paula Oliveira;Salvador; 5,0; 3,0
+Paula Oliveira;Sao Paulo; 5,0; 3,0
+Paula Oliveira;Sao Cristovao; 5,0; 3,0
+Paula Oliveira;Aracaju; 5,0; 3,0
+Paula Oliveira;Rio de Janeiro; 5,0; 3,0
+Paula Oliveira;Salvador; 5,0; 3,0
+Paula Oliveira;Sao Paulo; 5,0; 3,0
+Paula Oliveira;Sao Cristovao; 5,0; 3,0
+Ana Rafaela;Aracaju; 6,0; 1,0
+Ana Rafaela;Rio de Janeiro; 6,0; 1,0
+Ana Rafaela;Salvador; 6,0; 1,0
+Ana Rafaela;Sao Paulo; 6,0; 1,0
+Ana Rafaela;Sao Cristovao; 6,0; 1,0
+Ana Rafaela;Aracaju; 6,0; 1,0
+Ana Rafaela;Rio de Janeiro; 6,0; 1,0
+Ana Rafaela;Salvador; 6,0; 1,0
+Ana Rafaela;Sao Paulo; 6,0; 1,0
+Ana Rafaela;Sao Cristovao; 6,0; 1,0
+Ana Rafaela;Aracaju; 6,0; 1,0
+Ana Rafaela;Rio de Janeiro; 6,0; 1,0
+Ana Rafaela;Salvador; 6,0; 1,0
+Ana Rafaela;Sao Paulo; 6,0; 1,0
+Ana Rafaela;Sao Cristovao; 6,0; 1,0
+Ana Rafaela;Aracaju; 6,0; 1,0
+Ana Rafaela;Rio de Janeiro; 6,0; 1,0
+Ana Rafaela;Salvador; 6,0; 1,0
+Claudia Braga;Sao Paulo; 7,0; 3,0
+Claudia Braga;Sao Cristovao; 7,0; 3,0
+Claudia Braga;Aracaju; 7,0; 3,0
+Claudia Braga;Rio de Janeiro; 7,0; 3,0
+Claudia Braga;Salvador; 7,0; 3,0
+Claudia Braga;Sao Paulo; 7,0; 3,0
+Claudia Braga;Sao Cristovao; 7,0; 3,0
+Claudia Braga;Aracaju; 7,0; 3,0
+Claudia Braga;Rio de Janeiro; 7,0; 3,0
+Claudia Braga;Salvador; 7,0; 3,0
+Claudia Braga;Sao Paulo; 7,0; 3,0
+Claudia Braga;Sao Cristovao; 7,0; 3,0
+Claudia Braga;Aracaju; 7,0; 3,0
+Claudia Braga;Rio de Janeiro; 7,0; 3,0
+Claudia Braga;Salvador; 7,0; 3,0
+Claudia Braga;Sao Paulo; 7,0; 3,0
+Claudia Braga;Sao Cristovao; 7,0; 3,0
+Fabio Paes;Aracaju; 8,0; 3,0
+Fabio Paes;Rio de Janeiro; 8,0; 3,0
+Fabio Paes;Salvador; 8,0; 3,0
+Fabio Paes;Sao Paulo; 8,0; 3,0
+Fabio Paes;Sao Cristovao; 8,0; 3,0
+Fabio Paes;Aracaju; 8,0; 3,0
+Fabio Paes;Rio de Janeiro; 8,0; 3,0
+Fabio Paes;Salvador; 8,0; 3,0
+Fabio Paes;Sao Paulo; 8,0; 3,0
+Fabio Paes;Sao Cristovao; 8,0; 3,0
+Fabio Paes;Aracaju; 8,0; 3,0
+Fabio Paes;Rio de Janeiro; 8,0; 3,0
+Fabio Paes;Salvador; 8,0; 3,0
+Fabio Paes;Sao Paulo; 8,0; 3,0
+Fabio Paes;Sao Cristovao; 8,0; 3,0
+Fabio Paes;Aracaju; 8,0; 3,0
+Fabio Paes;Rio de Janeiro; 8,0; 3,0
+Fabio Paes;Salvador; 8,0; 3,0
+Lucas Goes;Sao Paulo; 9,0; 5,0
+Lucas Goes;Sao Cristovao; 9,0; 5,0
+Lucas Goes;Aracaju; 9,0; 5,0
+Lucas Goes;Rio de Janeiro; 9,0; 5,0
+Lucas Goes;Salvador; 9,0; 5,0
+Lucas Goes;Sao Paulo; 9,0; 5,0
+Lucas Goes;Sao Cristovao; 9,0; 5,0
+Lucas Goes;Aracaju; 9,0; 5,0
+Lucas Goes;Rio de Janeiro; 9,0; 5,0
+Lucas Goes;Salvador; 9,0; 5,0
+Lucas Goes;Sao Paulo; 9,0; 5,0
+Lucas Goes;Sao Cristovao; 9,0; 5,0
+Lucas Goes;Aracaju; 9,0; 5,0
+Lucas Goes;Rio de Janeiro; 9,0; 5,0
+Lucas Goes;Salvador; 9,0; 5,0
+Lucas Goes;Sao Paulo; 9,0; 5,0
+Lucas Goes;Sao Cristovao; 9,0; 5,0
+Pamela Santana;Aracaju; 10,0; 1,0
+Pamela Santana;Rio de Janeiro; 10,0; 1,0
+Pamela Santana;Salvador; 10,0; 1,0
+Pamela Santana;Sao Paulo; 10,0; 1,0
+Pamela Santana;Sao Cristovao; 10,0; 1,0
+Pamela Santana;Aracaju; 10,0; 1,0
+Pamela Santana;Rio de Janeiro; 10,0; 1,0
+Pamela Santana;Salvador; 10,0; 1,0
+Pamela Santana;Sao Paulo; 10,0; 1,0
+Pamela Santana;Sao Cristovao; 10,0; 1,0
+Pamela Santana;Aracaju; 10,0; 1,0
+Pamela Santana;Rio de Janeiro; 10,0; 1,0
+Pamela Santana;Salvador; 10,0; 1,0
+Pamela Santana;Sao Paulo; 10,0; 1,0
+Pamela Santana;Sao Cristovao; 10,0; 1,0
+Pamela Santana;Aracaju; 10,0; 1,0
+Pamela Santana;Rio de Janeiro; 10,0; 1,0
+Pamela Santana;Salvador; 10,0; 1,0
